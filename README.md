@@ -6,8 +6,7 @@ This repository contains the HTML source code and additional resources for our f
 
 Here is a live link to publicly view the slide presentation:
 [Crowd-sourcing Conundrum: A Look Into Google's Drawbacks
-in
-SBST](https://rawgit.com/taylor-redman/fs102S2017-Presentation1-taylor-redman/master/sbst2016_position.html).
+](https://rawgit.com/taylor-redman/fs102S2017-Presentation1-taylor-redman/master/sbst2016_position.html).
 
 ## Installation Instructions
 
