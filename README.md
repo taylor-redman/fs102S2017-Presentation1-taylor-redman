@@ -23,7 +23,7 @@ Are you interested in previewing the presentation without having to download
 the code and resources from the GitHub site? Well, you can! Please view
 [Hitchhikers Need Free Vehicles! Shared Repositories for Statistical Analysis
 in
-SBST](http://cdn.rawgit.com/taylor-redman/fs102Spring2017-Presentation1-taylor-redman/master/sbst2016_position.html).
+SBST](http://cdn.rawgit.com/taylor-redman/fs102S2017-Presentation1-taylor-redman/master/sbst2016_position.html).
 
 ## Installation Instructions
 
