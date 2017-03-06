@@ -4,7 +4,7 @@
 
 This repository contains the HTML source code and additional resources for our first presentation in our FS 102 class, Software Everywhere.
 
-Here is a live link to publicly view the slide presentation.
+Here is a live link to publicly view the slide presentation:
 [Crowd-sourcing Conundrum: A Look Into Google's Drawbacks
 in
 SBST](http://cdn.rawgit.com/taylor-redman/fs102S2017-Presentation1-taylor-redman/master/sbst2016_position.html).
